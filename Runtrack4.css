@@ -1,0 +1,26 @@
+body
+
+
+
+.premier{
+
+box-shadow: 1px 1px 19px;
+background-color:blue;
+ padding: 10px;
+outline-style: inset;
+}
+
+
+.deuxieme{
+
+box-shadow: 1px 1px 19px;
+background-color:yellow;
+ padding: 10px;
+font-family: cursive;
+font-weight:bold;
+text-decoration: underline overline #FF3028;
+
+}	
+
+
+.video{float:right;}

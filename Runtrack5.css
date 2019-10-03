@@ -1,0 +1,24 @@
+body
+
+
+
+.premier{
+
+box-shadow: 1px 1px 19px;
+background-color:red;
+ padding: 10px;
+outline-style: inset;
+}
+
+
+.deuxieme{
+
+box-shadow: 1px 1px 19px;
+background-color:red;
+ padding: 10px;
+font-family: cursive;
+outline-style: inset;
+color:black;
+}	
+
+

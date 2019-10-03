@@ -1,0 +1,28 @@
+body
+
+
+.premier{
+
+box-shadow: 1px 1px 19px;
+background-color:grey;
+ padding: 10px;
+outline-style: inset;}
+
+
+.deuxieme{
+
+box-shadow: 1px 1px 19px;
+background-color:grey;
+ padding: 10px;
+font-family: cursive;
+outline-style: inset;
+
+}	
+
+
+h2{font-family:cursive;
+text-decoration:underline;
+outline-style: inset;
+color:white;
+}
+
